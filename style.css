@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(19, 18, 18);
+}
+section{
+    width: 500px;
+    background-color: rgba(230, 84, 84, 0.473);
+    color:black;
+    border: 1px black solid;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-style: arial black;
+    color: white;
+}
+footer{
+    color:white;
+    text-align: center;
+}
